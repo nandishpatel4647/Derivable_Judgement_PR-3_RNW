@@ -1,0 +1,181 @@
+record_id,age_group,age,weight,gender,region,smoking_status,exercise_frequency,bmi,blood_pressure,diabetes,hypertension,cholesterol_level,glucose_level,visit_date
+101,36-45,42,66,Male,South,Non-Smoker,Daily,32.87,119.8,True,False,264.2,154.6,2025-11-29
+102,26-35,28,95,Female,East,Smoker,Weekly,30.18,94.0,False,False,203.0,139.0,2025-12-08
+103,60+,75,47,Other,East,Smoker,Never,33.33,105.3,True,True,159.5,70.3,2025-11-07
+104,18-25,19,97,Male,South,Former Smoker,Rarely,18.16,109.7,True,True,158.7,170.7,2025-04-20
+105,18-25,24,85,Female,East,Non-Smoker,Weekly,19.66,145.6,False,False,191.1,111.3,2025-04-01
+106,60+,71,67,Male,North,Smoker,Daily,25.41,109.7,True,True,252.8,149.9,2025-07-20
+107,46-60,48,50,Other,West,Former Smoker,Weekly,23.84,152.8,False,True,248.2,123.8,2025-10-24
+108,60+,62,109,Other,West,Non-Smoker,Never,30.95,125.3,True,True,207.7,92.8,2025-10-08
+109,60+,61,92,Other,East,Smoker,Weekly,34.64,109.2,False,False,172.4,82.6,2026-03-21
+110,60+,73,64,Other,South,Smoker,Rarely,19.76,102.2,True,True,250.9,142.6,2025-08-19
+111,36-45,45,74,Male,East,Smoker,Rarely,31.01,148.7,False,True,210.9,143.2,2025-04-21
+112,60+,74,76,Male,West,Former Smoker,Weekly,34.38,101.5,False,False,275.0,96.4,2025-07-16
+113,36-45,38,67,Other,West,Former Smoker,Rarely,32.42,127.6,False,True,196.8,133.5,2025-09-11
+114,26-35,26,83,Male,East,Non-Smoker,Daily,24.58,100.3,True,False,190.0,159.6,2025-06-27
+115,60+,70,66,Other,East,Smoker,Daily,21.7,144.7,False,False,210.6,89.2,2025-04-13
+116,60+,75,49,Male,South,Former Smoker,Rarely,34.14,124.5,True,True,258.1,159.2,2025-07-10
+117,36-45,41,59,Other,East,Non-Smoker,Daily,20.66,150.6,True,False,237.7,164.0,2025-10-12
+118,26-35,33,108,Other,East,Smoker,Never,28.32,147.7,False,True,239.5,119.6,2025-04-03
+119,46-60,55,62,Male,East,Smoker,Weekly,34.21,128.3,False,True,225.8,158.3,2025-06-28
+120,26-35,34,53,Male,East,Non-Smoker,Never,24.65,99.6,True,False,248.6,168.0,2025-12-21
+121,46-60,60,104,Other,North,Smoker,Never,29.45,90.6,True,True,209.9,135.2,2025-07-08
+122,46-60,59,46,Other,South,Smoker,Weekly,21.98,124.0,False,False,241.8,139.5,2025-05-27
+123,36-45,36,74,Other,North,Smoker,Never,23.22,150.7,False,True,206.7,89.5,2025-05-07
+124,18-25,18,87,Female,East,Non-Smoker,Weekly,19.83,115.7,True,False,160.7,137.5,2025-08-02
+125,46-60,53,92,Male,East,Former Smoker,Weekly,27.37,150.5,False,True,150.5,161.9,2025-12-18
+126,46-60,54,71,Other,West,Smoker,Daily,20.51,107.3,False,True,178.6,179.7,2026-03-13
+127,26-35,29,105,Male,North,Non-Smoker,Daily,28.83,157.2,True,True,219.1,72.8,2025-10-23
+128,18-25,24,77,Male,South,Former Smoker,Never,24.92,154.9,True,True,247.7,94.0,2025-12-17
+129,26-35,31,105,Other,South,Smoker,Weekly,20.57,120.6,False,True,211.8,149.9,2025-11-07
+130,26-35,33,84,Female,North,Former Smoker,Rarely,34.72,154.5,False,False,272.1,119.8,2025-05-21
+131,18-25,19,108,Male,North,Non-Smoker,Never,18.78,138.8,True,True,226.4,104.8,2025-10-09
+132,60+,63,100,Female,South,Non-Smoker,Daily,34.97,136.0,False,True,253.7,116.7,2025-06-07
+133,60+,62,46,Male,East,Former Smoker,Weekly,25.58,135.7,False,True,233.3,74.5,2026-01-03
+134,18-25,22,54,Male,South,Former Smoker,Daily,25.68,155.6,False,True,227.5,87.1,2025-06-19
+135,26-35,31,48,Male,East,Former Smoker,Daily,34.86,107.7,False,True,226.0,161.6,2025-04-21
+136,60+,67,65,Male,North,Smoker,Weekly,21.89,148.7,False,True,188.6,83.8,2025-12-24
+137,18-25,21,56,Other,West,Smoker,Weekly,34.47,112.2,False,False,224.0,75.5,2025-04-08
+138,60+,65,46,Female,North,Former Smoker,Rarely,21.91,116.1,False,False,240.6,171.9,2026-03-08
+139,60+,68,107,Female,East,Non-Smoker,Weekly,32.47,102.1,False,True,197.7,164.4,2025-06-04
+140,46-60,56,57,Female,West,Non-Smoker,Daily,34.04,129.7,True,False,262.9,154.5,2025-05-05
+141,18-25,25,83,Male,West,Non-Smoker,Weekly,26.16,94.9,False,True,184.4,125.0,2025-05-09
+142,26-35,35,99,Other,West,Former Smoker,Rarely,20.94,157.8,True,False,233.3,153.5,2025-10-11
+143,26-35,29,49,Female,East,Smoker,Weekly,34.74,146.0,True,False,245.1,156.0,2026-02-24
+144,36-45,37,85,Male,South,Smoker,Weekly,19.2,114.2,True,True,155.4,145.2,2025-09-26
+145,36-45,39,87,Other,West,Smoker,Never,26.18,110.0,False,True,203.7,128.4,2025-04-06
+146,46-60,46,59,Male,West,Non-Smoker,Weekly,20.26,128.5,False,True,245.4,89.1,2025-10-19
+147,60+,66,70,Male,North,Non-Smoker,Rarely,34.76,130.8,True,True,237.4,149.9,2025-06-04
+148,60+,64,103,Female,North,Smoker,Never,21.78,134.1,False,True,225.5,161.9,2025-11-02
+149,46-60,49,64,Male,South,Non-Smoker,Weekly,26.35,136.6,False,True,264.6,158.7,2025-12-19
+150,36-45,37,70,Other,East,Non-Smoker,Daily,18.07,117.9,False,True,276.3,122.8,2025-11-13
+151,46-60,48,70,Female,North,Non-Smoker,Weekly,18.09,100.1,False,False,279.4,70.4,2025-08-10
+152,36-45,36,87,Other,South,Smoker,Rarely,31.69,100.3,False,True,173.3,114.5,2025-08-17
+153,26-35,33,81,Female,West,Non-Smoker,Rarely,20.95,120.9,False,True,247.1,121.7,2025-09-03
+154,36-45,40,56,Female,East,Former Smoker,Never,21.52,144.5,False,False,188.7,97.6,2025-08-24
+155,26-35,27,70,Male,West,Former Smoker,Rarely,23.73,140.2,False,True,226.9,105.7,2026-01-27
+156,36-45,41,74,Other,North,Former Smoker,Never,23.35,137.5,True,True,177.6,169.1,2025-12-16
+157,26-35,30,63,Other,North,Former Smoker,Never,21.66,148.7,False,False,155.1,102.5,2025-09-07
+158,60+,63,108,Female,East,Non-Smoker,Daily,18.41,119.0,True,False,271.1,179.9,2025-05-17
+159,46-60,52,80,Female,West,Non-Smoker,Daily,28.71,151.4,True,False,220.2,78.9,2025-07-17
+160,36-45,41,105,Male,West,Smoker,Daily,32.64,131.2,False,False,241.8,108.0,2025-10-08
+161,18-25,23,48,Other,North,Former Smoker,Weekly,23.08,155.3,False,False,230.2,85.4,2025-08-10
+162,18-25,18,100,Female,East,Smoker,Rarely,34.58,116.5,False,True,228.3,119.1,2025-09-02
+163,60+,73,87,Male,North,Former Smoker,Rarely,25.58,124.5,True,False,204.5,159.1,2025-09-26
+164,46-60,58,107,Other,West,Former Smoker,Weekly,33.07,136.7,True,True,160.3,113.8,2025-07-28
+165,18-25,19,54,Female,South,Non-Smoker,Daily,33.47,152.9,False,False,213.4,146.4,2025-11-04
+166,18-25,24,84,Female,West,Former Smoker,Never,21.13,158.5,True,False,201.0,139.0,2025-08-19
+167,60+,66,73,Male,West,Former Smoker,Daily,22.26,99.0,False,True,208.6,154.3,2025-05-21
+168,36-45,42,87,Male,South,Former Smoker,Daily,24.54,93.2,True,True,172.7,114.0,2025-12-24
+169,26-35,26,102,Male,West,Former Smoker,Weekly,18.86,120.7,False,True,211.2,76.6,2025-10-12
+170,26-35,35,56,Other,North,Non-Smoker,Rarely,29.5,153.9,True,False,215.4,124.2,2025-08-12
+171,60+,74,69,Female,South,Non-Smoker,Never,28.06,107.8,False,False,244.6,94.9,2025-12-23
+172,36-45,40,68,Other,South,Smoker,Daily,28.23,99.0,True,False,157.6,139.2,2025-04-09
+173,26-35,27,57,Female,North,Former Smoker,Daily,28.4,145.1,False,True,253.4,159.8,2025-08-07
+174,18-25,22,70,Other,North,Former Smoker,Rarely,27.15,97.3,True,False,190.4,161.5,2025-11-02
+175,36-45,42,70,Male,West,Former Smoker,Never,23.48,146.7,False,False,247.4,179.6,2026-01-03
+176,46-60,46,79,Male,East,Former Smoker,Rarely,32.38,100.2,False,True,279.5,164.8,2025-07-17
+177,60+,67,67,Other,South,Former Smoker,Daily,34.24,159.4,True,False,172.8,99.8,2025-12-24
+178,60+,62,81,Male,North,Smoker,Weekly,26.82,152.9,True,False,256.8,179.4,2025-06-06
+179,46-60,50,45,Female,West,Smoker,Weekly,22.55,135.1,False,False,211.6,75.8,2025-03-23
+180,36-45,36,84,Other,North,Smoker,Rarely,25.48,146.1,True,True,173.1,70.2,2025-05-23
+181,26-35,32,106,Female,North,Non-Smoker,Never,31.29,146.6,False,False,245.9,175.7,2025-04-24
+182,36-45,39,48,Female,East,Smoker,Weekly,31.04,137.8,True,False,158.1,80.3,2025-07-09
+183,18-25,22,83,Male,North,Former Smoker,Weekly,18.07,92.5,True,False,204.2,109.9,2025-09-15
+184,60+,75,95,Male,West,Non-Smoker,Rarely,30.73,123.4,True,False,246.0,101.1,2025-08-26
+185,60+,74,45,Male,South,Former Smoker,Daily,18.79,126.8,False,True,154.3,118.2,2026-01-14
+186,26-35,31,107,Male,West,Non-Smoker,Weekly,30.29,135.7,True,False,192.8,176.4,2025-08-06
+187,18-25,18,110,Other,East,Non-Smoker,Weekly,34.84,107.9,True,True,224.8,99.2,2025-06-16
+188,46-60,46,102,Male,South,Smoker,Weekly,28.07,95.2,False,True,181.9,112.8,2025-06-11
+189,46-60,49,88,Male,North,Non-Smoker,Rarely,30.96,94.9,False,True,266.5,168.5,2026-02-02
+190,26-35,27,94,Female,South,Former Smoker,Rarely,32.44,117.4,False,False,199.3,104.7,2025-04-10
+191,36-45,44,58,Other,East,Former Smoker,Rarely,33.88,157.4,False,False,172.6,169.4,2026-02-12
+192,18-25,24,77,Other,North,Former Smoker,Rarely,22.75,118.4,False,True,275.0,155.7,2025-09-20
+193,26-35,27,74,Other,East,Non-Smoker,Weekly,31.57,124.1,True,False,215.5,80.0,2025-05-24
+194,60+,73,79,Other,South,Non-Smoker,Daily,28.76,103.5,True,False,221.1,152.2,2025-12-14
+195,60+,71,59,Female,West,Non-Smoker,Daily,32.04,143.4,True,False,200.1,96.6,2025-10-27
+196,46-60,46,78,Male,East,Smoker,Rarely,19.13,143.0,False,True,231.8,142.3,2025-12-11
+197,60+,74,61,Female,South,Non-Smoker,Weekly,32.01,155.9,False,True,240.1,174.1,2025-06-26
+198,60+,65,57,Male,West,Non-Smoker,Never,25.98,130.5,True,True,168.9,122.9,2025-06-18
+199,26-35,30,97,Female,North,Former Smoker,Never,22.26,132.1,False,True,228.2,107.9,2025-07-05
+200,60+,73,76,Female,North,Former Smoker,Daily,26.98,143.0,True,True,256.8,108.5,2025-11-04
+201,46-60,54,59,Male,East,Smoker,Weekly,28.51,115.1,False,False,273.5,135.8,2025-05-06
+202,60+,68,48,Other,East,Former Smoker,Never,19.75,102.8,True,True,187.9,150.7,2025-06-27
+203,60+,63,83,Male,West,Non-Smoker,Weekly,28.12,143.6,True,False,173.2,109.7,2025-12-18
+204,26-35,29,102,Other,North,Former Smoker,Rarely,29.85,93.2,False,False,150.8,164.7,2026-02-21
+205,60+,63,52,Male,North,Non-Smoker,Rarely,21.96,91.6,False,False,196.5,152.0,2025-08-04
+206,46-60,59,70,Female,East,Smoker,Rarely,34.08,112.1,True,True,195.1,142.5,2025-11-03
+207,26-35,31,92,Other,North,Non-Smoker,Daily,20.31,104.3,False,True,234.9,153.1,2025-11-16
+208,26-35,35,62,Female,West,Former Smoker,Never,23.75,94.5,True,True,150.4,119.2,2025-08-12
+209,18-25,20,91,Other,East,Non-Smoker,Never,21.87,132.3,False,True,225.8,147.5,2025-08-12
+210,26-35,30,47,Other,East,Former Smoker,Weekly,18.91,120.3,True,True,245.5,164.2,2025-06-13
+211,18-25,19,105,Male,West,Smoker,Rarely,29.42,99.5,False,False,235.6,101.6,2026-01-14
+212,26-35,29,107,Female,East,Non-Smoker,Daily,22.64,132.0,True,False,277.6,155.2,2025-09-04
+213,36-45,43,99,Male,West,Non-Smoker,Never,25.46,139.9,False,True,176.4,176.9,2026-01-04
+214,36-45,41,83,Other,South,Non-Smoker,Never,19.94,98.4,False,False,258.5,168.3,2025-07-01
+215,18-25,20,73,Female,East,Smoker,Weekly,22.79,102.9,True,True,252.9,108.1,2025-04-06
+216,18-25,23,93,Female,West,Smoker,Weekly,31.32,124.1,False,True,272.6,177.0,2025-05-27
+217,60+,69,102,Female,South,Smoker,Rarely,24.23,100.1,False,False,269.7,74.6,2025-10-08
+218,36-45,37,57,Female,West,Smoker,Rarely,25.12,121.3,False,True,232.9,105.1,2025-12-16
+219,60+,70,65,Female,South,Non-Smoker,Weekly,24.26,135.6,False,False,195.1,126.8,2025-06-30
+220,36-45,39,66,Male,North,Non-Smoker,Rarely,23.98,142.2,True,False,215.1,155.7,2025-12-20
+221,26-35,29,84,Male,West,Former Smoker,Never,24.1,121.8,True,False,179.2,172.3,2025-07-25
+222,26-35,31,49,Female,North,Former Smoker,Rarely,24.09,136.0,True,True,167.3,173.1,2026-03-19
+223,46-60,56,55,Male,South,Smoker,Rarely,19.4,125.3,False,False,197.6,76.4,2025-08-26
+224,26-35,34,78,Male,South,Non-Smoker,Never,22.89,136.2,False,True,242.9,112.5,2025-12-25
+225,46-60,58,110,Other,East,Non-Smoker,Daily,28.67,128.0,True,True,197.2,125.2,2025-05-27
+226,46-60,59,53,Female,West,Non-Smoker,Rarely,33.33,141.2,True,True,228.6,112.8,2025-05-30
+227,26-35,31,104,Male,South,Smoker,Never,28.67,134.3,True,True,249.0,82.4,2025-06-22
+228,60+,61,87,Female,North,Smoker,Daily,24.83,131.5,True,True,226.9,144.4,2026-02-25
+229,18-25,21,83,Male,North,Smoker,Rarely,29.81,100.7,False,True,224.0,97.8,2025-05-10
+230,26-35,29,84,Female,North,Former Smoker,Never,18.17,104.8,True,True,192.6,73.3,2025-08-30
+231,26-35,34,97,Male,West,Non-Smoker,Weekly,24.39,108.3,False,True,202.7,102.4,2025-05-25
+232,60+,65,72,Male,East,Smoker,Daily,30.63,100.1,True,True,204.1,95.3,2025-12-26
+233,60+,67,78,Other,South,Non-Smoker,Weekly,27.49,117.9,False,True,164.3,143.6,2025-11-24
+234,26-35,28,59,Other,North,Non-Smoker,Rarely,32.42,95.1,False,True,252.7,131.3,2025-04-04
+235,60+,65,83,Other,West,Former Smoker,Rarely,20.63,90.4,True,True,239.4,123.2,2025-06-28
+236,46-60,59,89,Other,East,Smoker,Never,25.71,152.4,False,True,166.7,138.4,2025-09-02
+237,46-60,58,92,Male,East,Non-Smoker,Never,18.54,94.4,False,False,232.4,125.0,2025-11-20
+238,36-45,44,57,Other,South,Smoker,Weekly,18.57,116.6,True,True,263.4,118.5,2026-01-18
+239,46-60,46,45,Female,West,Former Smoker,Rarely,18.88,148.6,True,True,191.5,153.9,2026-01-12
+240,60+,63,88,Other,East,Smoker,Daily,34.93,144.9,True,False,210.8,89.3,2026-02-15
+241,60+,64,76,Female,East,Former Smoker,Rarely,31.12,123.7,True,False,159.0,109.1,2025-05-30
+242,26-35,31,101,Female,South,Non-Smoker,Rarely,25.03,157.5,False,True,224.4,135.4,2025-07-20
+243,18-25,22,74,Female,North,Non-Smoker,Daily,32.11,150.8,True,True,257.6,150.1,2025-10-22
+244,46-60,59,108,Male,East,Non-Smoker,Rarely,21.19,103.0,True,True,186.5,74.7,2026-03-21
+245,18-25,19,81,Female,North,Former Smoker,Rarely,30.12,155.1,False,False,154.5,149.1,2025-08-30
+246,26-35,31,94,Female,East,Former Smoker,Rarely,18.37,117.9,False,True,266.6,149.7,2025-11-09
+247,46-60,54,64,Female,West,Former Smoker,Daily,18.74,92.7,True,False,248.3,85.6,2025-10-22
+248,60+,63,96,Other,North,Smoker,Weekly,18.97,129.7,False,False,215.8,87.4,2025-08-14
+249,36-45,42,83,Female,West,Smoker,Rarely,28.65,137.1,False,True,259.9,160.5,2026-03-20
+250,36-45,42,85,Other,South,Former Smoker,Rarely,26.28,108.6,False,False,226.5,121.8,2025-07-06
+251,18-25,18,101,Other,West,Smoker,Daily,18.23,93.4,True,True,164.6,108.1,2025-05-19
+252,18-25,25,78,Other,West,Former Smoker,Rarely,24.44,94.4,False,True,254.8,86.8,2025-12-29
+253,60+,75,75,Other,North,Non-Smoker,Daily,24.89,96.4,False,False,236.7,152.6,2025-03-23
+254,60+,74,76,Other,East,Non-Smoker,Rarely,22.8,117.3,False,False,218.6,128.7,2025-08-02
+255,46-60,55,59,Female,West,Non-Smoker,Never,27.54,101.8,True,True,156.9,81.4,2025-09-23
+256,46-60,47,54,Female,West,Smoker,Rarely,29.67,102.2,False,True,277.4,81.1,2025-07-14
+257,36-45,36,64,Other,North,Non-Smoker,Daily,21.74,90.6,True,False,268.4,104.8,2025-10-27
+258,36-45,41,107,Female,South,Smoker,Daily,22.73,97.2,False,False,223.3,137.9,2025-12-31
+259,18-25,22,102,Female,West,Former Smoker,Never,25.22,153.7,True,True,154.2,132.8,2025-06-05
+260,46-60,51,45,Male,North,Non-Smoker,Daily,30.23,112.2,True,False,243.3,177.6,2025-10-22
+261,18-25,18,76,Other,South,Smoker,Daily,31.36,126.7,False,True,172.4,117.3,2025-10-19
+262,26-35,35,93,Female,South,Smoker,Daily,25.46,94.3,False,False,264.4,90.2,2025-08-07
+263,26-35,32,109,Male,East,Former Smoker,Never,19.89,95.9,True,True,232.8,143.0,2026-01-06
+264,18-25,22,56,Male,South,Smoker,Daily,18.99,154.6,True,False,239.7,171.3,2025-04-16
+265,26-35,34,83,Male,South,Non-Smoker,Never,23.7,155.5,False,False,156.8,100.9,2026-01-06
+266,60+,75,52,Other,West,Non-Smoker,Weekly,23.49,112.2,True,False,150.3,152.1,2026-02-23
+267,46-60,46,53,Male,West,Smoker,Daily,23.51,154.2,False,False,257.1,163.6,2025-11-20
+268,60+,70,100,Female,East,Non-Smoker,Never,23.82,123.7,True,True,263.3,92.8,2025-10-16
+269,60+,69,101,Other,West,Former Smoker,Never,20.59,121.0,False,True,215.2,132.3,2026-03-03
+270,60+,62,79,Male,East,Smoker,Never,34.12,90.8,True,False,271.9,153.7,2025-11-16
+271,26-35,27,95,Female,South,Non-Smoker,Weekly,29.41,156.6,False,True,170.2,120.2,2026-01-19
+272,46-60,51,46,Other,East,Former Smoker,Daily,18.99,132.7,True,False,233.8,153.7,2025-04-14
+273,18-25,25,104,Female,South,Former Smoker,Daily,26.12,92.7,True,False,219.3,170.8,2025-12-08
+274,60+,63,81,Other,West,Former Smoker,Daily,34.02,95.1,True,False,252.9,159.0,2025-07-10
+275,46-60,55,65,Female,East,Smoker,Daily,22.26,111.7,False,True,181.6,164.9,2026-02-05
+276,60+,68,46,Male,West,Smoker,Daily,26.11,95.8,True,False,187.9,179.7,2025-05-04
+277,46-60,50,107,Male,North,Smoker,Weekly,28.32,157.3,False,True,278.0,78.7,2025-05-22
+278,46-60,57,74,Male,North,Non-Smoker,Daily,25.29,100.6,True,False,237.5,137.8,2026-02-06
+279,46-60,52,48,Other,North,Smoker,Never,29.87,106.4,False,True,257.7,139.1,2025-03-24
+280,18-25,24,98,Male,West,Smoker,Daily,29.14,116.6,False,True,251.6,135.1,2025-08-10
