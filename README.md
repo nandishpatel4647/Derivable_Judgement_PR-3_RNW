@@ -3,7 +3,7 @@
 This project demonstrates basic statistical analysis using Python on a health dataset.  
 It includes concepts like confidence intervals, hypothesis testing, and correlation using simple and beginner-friendly code.
 
-Video Link - 
+Project Explanation Video Link - https://drive.google.com/file/d/17L88pW-JNU8ykTC6VYa1-7NoJTArfE1H/view?usp=sharing
 ---
 
 ## 📁 Dataset
